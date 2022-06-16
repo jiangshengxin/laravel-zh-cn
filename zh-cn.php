@@ -12,7 +12,7 @@ $arr = [
         "'The environment the command should run under'" => "'命令应该运行的环境'",
     ],
     'vendor/laravel/framework/src/Illuminate/Foundation/Console/ClearCompiledCommand.php' => [
-        "'Remove the compiled class file'" => "'Remove the compiled class file'",
+        "'Remove the compiled class file'" => "'删除已编译的类文件'",
     ],
 ];
 
